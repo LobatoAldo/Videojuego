@@ -1,5 +1,5 @@
 # Videojuego
-´#99FFFF´ 
+
 ## Class work
 
 ### Class work videogame
